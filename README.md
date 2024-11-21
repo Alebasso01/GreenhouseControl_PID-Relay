@@ -27,3 +27,10 @@ This project aims to simulate and regulate the temperature over a 24-hour period
 - **greenhouse.m**: MATLAB script that initializes the variables and runs the simulation.
 - **simulink**: Folder that contains all the simulink models.
 - **docs/**: Folder that contains the document of the problem.
+
+
+
+## Acknowledgments
+
+This project was developed to explore and compare different control strategies for temperature regulation in dynamic systems as part of the academic exam [Industrial Automation](https://corsi.unige.it/off.f/2021/ins/51470) during Master's degree in Computer Engineering at the University of Genova.
+
